@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayyan shaikh</h1>
 <h3 align="center">👋 Hi, I’m Ayyan shaikh, passionate about web development and programming.</h3>
-<h3💻 I have a basic understanding of web technologies and enjoy exploring new frameworks.</h3>
-<h3🚀 I’m proficient in C, C++, and Java, constantly improving my coding skills.</h3>
-<h3🌱 Currently, I’m learning more about backend development and databases.</h3> 
-<h3🔍 I love solving problems, building projects, and contributing to open-source.</h3>
+<h3 align="center">💻 I have a basic understanding of web technologies and enjoy exploring new frameworks.</h3>
+<h3 align="center">🚀 I’m proficient in C, C++, and Java, constantly improving my coding skills.</h3>
+<h3 align="center">🌱 Currently, I’m learning more about backend development and databases.</h3> 
+<h3 align="center">🔍 I love solving problems, building projects, and contributing to open-source.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
