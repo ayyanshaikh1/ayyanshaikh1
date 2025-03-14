@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayyan shaikh</h1>
 <h3 align="center">👋 Hi, I’m Ayyan shaikh, passionate about web development and programming. 💻 I have a basic understanding of web technologies and enjoy exploring new frameworks. 🚀 I’m proficient in C, C++, and Java, constantly improving my coding skills. 🌱 Currently, I’m learning more about backend development and databases. 🔍 I love solving problems, building projects, and contributing to open-source.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyanshaikh1" alt="ayyanshaikh1" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayyan-shaikh-73449529b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayyan-shaikh-73449529b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
